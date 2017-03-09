@@ -1,0 +1,6 @@
+ingredienti:
+- sugo
+- mozzarella
+- lievito
+- farina
+- prezzemolo
